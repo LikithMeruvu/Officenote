@@ -22,7 +22,7 @@ import logging
 TEMP_DIR = "temp"
 
 router = APIRouter()
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+client = OpenAI(api_key="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")
 
 def first_page_check(pdf_path):
 
