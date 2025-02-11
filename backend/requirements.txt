@@ -16,4 +16,3 @@ transformers
 lxml_html_clean
 MarkItDown
 docxtpl
-python-docx
